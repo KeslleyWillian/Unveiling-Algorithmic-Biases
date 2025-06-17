@@ -8,6 +8,6 @@ The research highlights how generative AI models can amplify demographic biases,
 Available files:
 - **extracted_essays.xlsx** – Dataset containing the extracted essays.
 - **comparative_analysis.xlsx** – Comparative analysis of the essay assessments.
-- **webscraping_code.py** – Script for web scraping to collect the essay data.
-- **transforming.py** – Script for data preprocessing and transformation.
-- **api_gemini.py** – Script for interacting with the Gemini API for essay assessment.
+- **webscraping_code.ipynb** – Script for web scraping to collect the essay data.
+- **transforming.ipynb** – Script for data preprocessing and transformation.
+- **api_gemini.ipynb** – Script for interacting with the Gemini API for essay assessment.
