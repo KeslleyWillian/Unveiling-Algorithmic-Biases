@@ -1,7 +1,7 @@
 # Unveiling Algorithmic Biases Through Personas: A Comparative Analysis of ENEM’s Essays on Gemini
 This repository contains the files used for the research project “The advancement of generative Artificial Intelligence (AI) models raises questions about their objectivity in assessment tasks.”
 
-The study investigates whether AI can evaluate essays in Portuguese impartially and how the assignment of author personas influences AI assessments. Using a comparative methodology, 801 essays were evaluated by a human, by the Gemini AI in an anonymous setting, and by the same AI configured with five different personas. The results revealed that the AI exhibited bias, assigning higher scores to personas perceived as more experienced and lower scores to those perceived as less experienced.
+The study investigates whether AI can evaluate essays in portuguese impartially and how the assignment of author personas influences AI assessments. Using a comparative methodology, 801 essays were evaluated by a human, by the Gemini AI in an anonymous setting, and by the same AI configured with five different personas. The results revealed that the AI exhibited bias, assigning higher scores to personas perceived as more experienced and lower scores to those perceived as less experienced.
 
 The research highlights how generative AI models can amplify demographic biases, raising concerns about their application in educational contexts and emphasizing the need for auditing mechanisms to ensure fairness and equity.
 
