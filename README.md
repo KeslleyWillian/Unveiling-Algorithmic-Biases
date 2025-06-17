@@ -11,3 +11,4 @@ Available files:
 - **webscraping_code.ipynb** – Script for web scraping to collect the essay data.
 - **transforming.ipynb** – Script for data preprocessing and transformation.
 - **api_gemini.ipynb** – Script for interacting with the Gemini API for essay assessment.
+- **prompts.md** - File containing the prompts for the Gemini API
